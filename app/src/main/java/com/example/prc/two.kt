@@ -1,3 +1,3 @@
-package com.example.prc.ui.theme
+package com.example.prc
 
 // this is two.kt file from local main branch
